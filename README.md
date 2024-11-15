@@ -1,2 +1,2 @@
 # xdu_cs
-实验报告、大作业 、上机作业等
+Course-related practical assignments
